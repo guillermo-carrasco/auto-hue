@@ -8,4 +8,4 @@ More about the project in [this blog post][hue-post].
 
 
 [hue-sensor]: https://www2.meethue.com/en-us/p/hue-motion-sensor/046677473389
-[hue-post]: http://mussol.org/2018/01/30/build-your-own-hue-sensor/
+[hue-post]: http://mussol.org/2018/02/08/build-your-own-hue-sensor/
